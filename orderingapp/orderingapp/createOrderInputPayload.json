@@ -1,0 +1,13 @@
+{
+    "hotelId":"1",
+    "hotelName":"OYO",
+    "checkInDate":"2020-09-21",
+    "checkOutDate":"2022-09-27",
+    "customerName":"Ajay Sethi",
+    "customerEmailId":"ajaysethi@gmail.com",
+    "customerContactNo":"9999999999",
+    "roomId":"100",
+    "roomName":"SilverKey",
+    "noOfGuests":"2",
+    "totalAmount":"1236"
+}
